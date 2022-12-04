@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emulator8086", "emulator8086\emulator8086.csproj", "{A2469AEC-A8EF-412B-8095-4538CD300CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2469AEC-A8EF-412B-8095-4538CD300CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2469AEC-A8EF-412B-8095-4538CD300CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2469AEC-A8EF-412B-8095-4538CD300CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2469AEC-A8EF-412B-8095-4538CD300CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180D2071-1FD7-462A-B9C5-C04A95C72D48}
+	EndGlobalSection
+EndGlobal
